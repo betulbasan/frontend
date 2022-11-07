@@ -1,0 +1,15 @@
+#header{
+    text-align: center;
+}
+h1 {
+    color: red;
+}
+h2 {
+    color: rgb(184, 68, 184);
+}
+h3 {
+    color: rgb(165, 165, 62);
+}
+.price {
+    font-weight: bold;
+}
