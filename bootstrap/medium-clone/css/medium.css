@@ -1,0 +1,18 @@
+.aside-buttons > li {
+    margin-bottom: 5px;
+}
+body {
+    font-family: 'PT Serif', serif;
+}
+.bg-yellow {
+    background-color:#FFC017; 
+}
+.border-bottom-dark {
+    border-bottom: 1px solid rgb(41, 41, 41);
+}
+.border-bottom-grey {
+    border-bottom: 1px solid rgba(209, 202, 202, 0.473);
+}
+.button-curved {
+    border-radius: 20px;
+}
