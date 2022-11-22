@@ -55,6 +55,7 @@ function newElement() {
     alert("You must write something!");
   } else {
     document.querySelector('#list').appendChild(li);
+    localStorage.setItem(`Task_${inputValue}`,inputValue)
   }
   document.querySelector('#task').value = "";
 
